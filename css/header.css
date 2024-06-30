@@ -6,8 +6,8 @@
   align-items: center;
   padding: 2.5rem;
 }
-.header img {
-  width: 8rem;
+.header .nomeTitulo {
+  font-size: 3.5rem;
 }
 .header-menu {
   display: flex;
